@@ -7,6 +7,7 @@
     "@types/node": "^22.13.5",
     "jest": "^29.7.0",
     "ts-jest": "^29.2.6",
+    "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
   },
   "scripts": {
@@ -22,5 +23,8 @@
     "url": "https://github.com/snick-m/commit-blog/issues"
   },
   "homepage": "https://github.com/snick-m/commit-blog#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
